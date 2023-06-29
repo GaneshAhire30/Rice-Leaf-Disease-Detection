@@ -11,6 +11,7 @@ Brown spot has been histroically largely ignored as one of the most common and m
 ![image](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection/assets/114847888/7253c24d-f994-4a87-9b4b-98283ea33577)
 #### 3. Bacterial Leaf Blight :-
 Bacterial blight is caused by  wilting of seedlings and yellowing and drying if leaves. It is commonly observed when strong winds and continuous heavy rains occur, allowing the disease-causing bacteria to easily spread. In general, the disease favors temperatures at 25-34 degree Celsius, With relative humidity above 70%.
+![image](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection/assets/114847888/416b6f7f-b9bf-47e5-992b-82cd5083ec1b)
 
 ##  DATA SUMMARY :-
 *This dataset contains 119 jpg images of disease infected rice leaves. The images are grouped into 3 classes based on the type of disease. There are 40 images for Brown Spot, 40 images for Bacterial Leaf Blight, 39 images for Leaf Smut.*
@@ -53,5 +54,6 @@ Bacterial blight is caused by  wilting of seedlings and yellowing and drying if 
 ## Model Testing  :-
 
 * Visualise the prediction of the model :-
+![image](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection/assets/114847888/763e3377-9ade-4b13-b78e-457983955004)
 
 * In this step we are create a funtion to test multiple images from test data.
