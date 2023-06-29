@@ -19,3 +19,38 @@ Bacterial blight is caused by  wilting of seedlings and yellowing and drying if 
   1. **Leaf Smut**
   2. **Brown Spot**
   3. **Bacterial Leaf Blight**
+### WE HAVE DEVICE THE PROJECT INTO MULTIPLE STEPS  :-
+* Importing library
+* Loading data
+* Preparing data
+* Data Processing
+* Model building
+* Training
+* Evaluation
+* Testing
+## Loading Data / Preparing Data :-
+* Make a subset of data into three parts train, test, and validation with the help of split folder library.
+## Data Processing :-
+* In this step generate the batches of training and validation and pre-process the images.
+## Model Building :-
+* In this steps we create CNN model architecture in that three types of layers  Convolution layer, Pooling layer And Fully connected layer are added.
+
+* Get the summary of model.
+
+* compile model.
+
+* Then the last train the model 
+
+* After training validation accuracy is 90.91% And training accuracy is 91.58%.
+
+* And save the model.
+
+* Plotting a graphical representation of Plot Accuracy And Losses.
+## Model Evaluation :-
+* Created the model summary.
+* Here the loss is 0.31 and the accuracy of the model is 0.8462 percent means 84.62%.
+## Model Testing  :-
+
+* Visualise the prediction of the model :-
+![image.png](attachment:image.png)
+* In this step we are create a funtion to test multiple images from test data.
