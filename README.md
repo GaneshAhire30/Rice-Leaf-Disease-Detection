@@ -52,5 +52,5 @@ Bacterial blight is caused by  wilting of seedlings and yellowing and drying if 
 ## Model Testing  :-
 
 * Visualise the prediction of the model :-
-![image.png](attachment:image.png)
+
 * In this step we are create a funtion to test multiple images from test data.
