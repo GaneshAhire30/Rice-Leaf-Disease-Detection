@@ -4,7 +4,8 @@ The rice leaf suffers from several bacterial, viral, or fungal diseases and thes
 ### RICE LEAF DISEASE :-        
 #### 1. Leaf Smut :-
 Leaf Smut, Caused by the fungus. The Fungus produces slightly raised, angular, black spots on both sides of the leaves. Although rare, it also can produce spots on leaf sheaths. The black spots are about  0.5 to 5.0 millimeters long and 0.5 to 1.5 millimeters wide.
-![image.png](attachment:image.png)https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection/issues/new
+![image](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection/assets/114847888/4d17339b-d00c-4591-af4c-79f2b8babdad)
+
 #### 2. Brown Spot :-
 Brown spot has been histroically largely ignored as one of the most common and most damaging rice diseases. Its most observable damage is the numberous big spots on the leaves which can kill the whole leaf.  Infected seedlings have small, circular, yellow brown or brown lesions that may girdle the coleoptile.
 
