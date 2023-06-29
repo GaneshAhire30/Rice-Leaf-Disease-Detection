@@ -8,7 +8,7 @@ Leaf Smut, Caused by the fungus. The Fungus produces slightly raised, angular, b
 
 #### 2. Brown Spot :-
 Brown spot has been histroically largely ignored as one of the most common and most damaging rice diseases. Its most observable damage is the numberous big spots on the leaves which can kill the whole leaf.  Infected seedlings have small, circular, yellow brown or brown lesions that may girdle the coleoptile.
-
+![image](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection/assets/114847888/7253c24d-f994-4a87-9b4b-98283ea33577)
 #### 3. Bacterial Leaf Blight :-
 Bacterial blight is caused by  wilting of seedlings and yellowing and drying if leaves. It is commonly observed when strong winds and continuous heavy rains occur, allowing the disease-causing bacteria to easily spread. In general, the disease favors temperatures at 25-34 degree Celsius, With relative humidity above 70%.
 
